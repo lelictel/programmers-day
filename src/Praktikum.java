@@ -13,7 +13,7 @@ public class Praktikum {
             System.out.println("13.09." + year);
         }
         }
-
+        //git
 
     public static boolean isLeapYear(int year) {
         // здесь нужно определить, является ли переданный год високосным
